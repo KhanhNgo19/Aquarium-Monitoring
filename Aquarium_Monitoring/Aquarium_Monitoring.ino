@@ -27,9 +27,9 @@ const int pos = 180;   // Goc  quay cua servo
 int button; 
 float temp = 0;
 
-char auth[] = "TLSksyC6xuNuI-XsP8nfCG5xrRfg9172"; // Nhập AuthToken
-char ssid[] = "Wifi free pass 1-8"; // Nhập tên WiFi
-char pass[] = "hoilamdeogi";   // Nhập password WiFi
+char auth[] = "Your Auth Token"; // Nhập AuthToken
+char ssid[] = "Your Wifi"; // Nhập tên WiFi
+char pass[] = "Your Password";   // Nhập password WiFi
 
 
 void setup()
