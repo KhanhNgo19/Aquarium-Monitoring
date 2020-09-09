@@ -4,7 +4,7 @@
   Chủ đề    : Aquarium Monitoring
   Kit/MCU   : Arduino & ESP8266
   Thành viên: Ngô Minh Khánh  - 18020698
-              Nguyễn Hữu Hưng - 
+              Nguyễn Hữu Hưng - 18020612
               
 ***************************************************************
              TÍNH NĂNG (Đã test) 
