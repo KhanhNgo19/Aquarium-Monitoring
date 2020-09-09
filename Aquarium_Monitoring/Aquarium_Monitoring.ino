@@ -5,7 +5,7 @@
 *******************************************/
 
 /*            TÍNH NĂNG (Đã test, còn update)
-  - Cho cá ăn bằng nút và giờ định sẵn nhấn trên điện thoại 
+  - Cho cá ăn bằng nút và giờ định sẵn trên điện thoại 
   - Đo nhiệt độ nước và hiện thị về điện thoai
 */
  
