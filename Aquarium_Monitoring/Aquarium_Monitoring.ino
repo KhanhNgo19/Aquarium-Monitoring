@@ -1,12 +1,17 @@
-/*******************************************
+/**************************************************
+ * Bài tập môn học Cơ sở đo lường & điều khiển số
  * Aquarium Monitoring
  * Arduino & ESP8266
  * Ngô Minh Khánh & Nguyễn Hữu Hưng
-*******************************************/
+*************************************************/
 
-/*            TÍNH NĂNG (Đã test, còn update)
-  - Cho cá ăn bằng nút và giờ định sẵn trên điện thoại 
-  - Đo nhiệt độ nước và hiện thị về điện thoai
+
+/*             TÍNH NĂNG (Đã test) 
+     
+   - Cho cá ăn bằng nút và giờ định sẵn trên điện thoại 
+   - Đo nhiệt độ nước và hiện thị về điện thoại
+    
+   (Còn update và thêm tính năng)
 */
  
 #include <ESP8266WiFi.h>
