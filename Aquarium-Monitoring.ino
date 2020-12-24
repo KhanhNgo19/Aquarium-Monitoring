@@ -31,10 +31,10 @@
 #include <FirebaseArduino.h>  // ArduinoJson version 5
 #include <Servo.h>
 
-const String tenWifi = "Wifi free pass 1-8";
-const String mkWifi = "hoilamdeogi";
-const String urlFirebase = "notesreact-e32ff.firebaseio.com";
-const String secretFirebase = "dOSs0Sev5HZT9eZjQeAWFJkzuPWdJ8TGOWQlEkx8";
+const String tenWifi = "Wifi name";
+const String mkWifi = "Wifi password";
+const String urlFirebase = "your Firebase url";
+const String secretFirebase = "your Firebase secret";
 
 const int DS18B20_PIN = 4; //D2
 const int TRIG_PIN = 14;   //D5
